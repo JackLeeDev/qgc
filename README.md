@@ -5,6 +5,7 @@ An adaptive Lua GC scheduler from Quick engine
 ✨ **Core Features**  
 - **Reduces runtime memory usage by 30%** 
 - **CPU consumption less than 1%**
+- **QQ Group**: 1075858599
 
 # usages:
 ```lua 
